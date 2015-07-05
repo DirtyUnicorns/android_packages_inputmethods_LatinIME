@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2012 Crossbones Software
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- https://android.googlesource.com/platform/packages/inputmethods/LatinIME/+/android-5.1.1_r6/java/res/values-fr/strings.xml-->
+    <!-- Settings screen title for preferences [CHAR LIMIT=33]-->
+    <string name="settings_screen_preferences">Préférences</string>
+    <!-- Settings screen title for appearance & layouts preferences [CHAR LIMIT=33] -->
+    <string name="settings_screen_appearance">Apparence et dispositions</string>
+    <!-- Settings screen title for multilingual options [CHAR_LIMIT=33] -->
+    <string name="settings_screen_multilingual">Options multilingues</string>
+    <!-- Settings screen title for gesture typing preferences [CHAR_LIMIT=33] -->
+    <string name="settings_screen_gesture">Saisie gestuelle</string>
+    <!-- Settings screen title for text correction options [CHAR_LIMIT=33] -->
+    <string name="settings_screen_correction">Correction du texte</string>
+    <!-- Settings screen title for advanced settings [CHAR LIMIT=33] -->
+    <string name="settings_screen_advanced">Paramètres avancés</string>
+    <!-- Settings screen title for keyboard theme settings [CHAR LIMIT=33] -->
+    <string name="settings_screen_theme">Thème</string>
+
+    <!-- Title for the 'Help & feedback' settings fragment which shows a help page and has a button
+         for submitting feedback. [CHAR LIMIT=35] -->
+    <string name="help_and_feedback">Aide et commentaires</string>
+    <!-- Add to dictionary hint -->
+    <string name="hint_add_to_dictionary_without_word">Appuyez ici pour enregistrer.</string>
+
+    <!-- Title of the preference settings for switching keyboard theme [CHAR LIMIT=35] -->
+    <string name="keyboard_theme">Thème du clavier</string>
+</resources>
