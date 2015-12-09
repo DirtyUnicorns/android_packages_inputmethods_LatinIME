@@ -15,6 +15,8 @@
 ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 ** See the License for the specific language governing permissions and
 ** limitations under the License.
+** 
+**      French translation for Dirty Unicorns
 */
  -->
 
@@ -22,4 +24,16 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- The text shown on the suggestion bar to request the contacts permission info. -->
     <string name="important_notice_suggest_contact_names">Suggérer des noms de contact ? Appuyez pour plus d\'infos.</string>
+    <!-- Description of the emoji category icon of Flags. -->
+    <string name="spoken_descrption_emoji_category_flags">Drapeaux</string>
+    <!-- Description of the emoji category icon of Smiley & People. -->
+    <string name="spoken_descrption_emoji_category_eight_smiley_people">Frimousses et Personnes</string>
+    <!-- Description of the emoji category icon of Animals & Nature. -->
+    <string name="spoken_descrption_emoji_category_eight_animals_nature">Animaux et Nature</string>
+    <!-- Description of the emoji category icon of Food & Drink. -->
+    <string name="spoken_descrption_emoji_category_eight_food_drink">Nourriture et Boisson</string>
+    <!-- Description of the emoji category icon of Travel & Places. -->
+    <string name="spoken_descrption_emoji_category_eight_travel_places">Voyage et Lieux</string>
+    <!-- Description of the emoji category icon of Activity. -->
+    <string name="spoken_descrption_emoji_category_eight_activity">Activité</string>
 </resources>
